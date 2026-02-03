@@ -1,3 +1,8 @@
-Create a class called stack having two private members (array of integer, tos) &amp;methods called push (), pop (), display() and exit(). Create class DemoStack having main () method. In that create stack object with different array size and make user interactive implementation.
+1) Create a class called stack having two private members (array of integer, tos) and methods called push (), pop (), display() and exit(). 
+Create class DemoStack having main () method.
+In that create stack object with different array size and make user interactive implementation.
 
-2) Write an application that defines a circle class with 2 constructors-the first form expects a double value that represents the radius of a circle, this constructor assumes that circle is centered at the origin. The second form accepts 3 double values, the first 2 arguments define the coordinates of the center &amp; 3 rd argument defines the radius. Also declare one member function, which calculates an area of the circle.
+2) Write an application that defines a circle class with 2 constructors-the first form expects a double value that represents the radius of a circle, 
+this constructor assumes that circle is centered at the origin. 
+The second form accepts 3 double values, the first 2 arguments define the coordinates of the center &amp; 3 rd argument defines the radius. 
+Also declare one member function, which calculates an area of the circle.
